@@ -2,7 +2,7 @@
 Basic website created for two types of quiz: True/False and MCQ type with score board shown at end using HTML, CSS and JavaScript.
 
 Features of the website:
-- Displays two different types of quiz within the same web page depending of option selected.
+- Displays two different types of quiz within the same web page depending on option selected.
 - For both types of quiz, question, its options, previous and next button are shown.
 - On clicking previous or next button, previous or next question is shown respectively.
 - On selecting any answer option: 
